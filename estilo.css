@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://img.freepik.com/fotos-premium/fumaca-branca-em-fundo-preto_9083-8466.jpg");
+    min-height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat, no-repeat;
+    color: white;
+}
+
+#kau {
+    background: linear-gradient(#2c0d0d, #840606);
+    border: 5px solid rgb(85, 2, 2);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.containerTopo {
+    text-align: center;
+    border: 5px solid rgb(85, 2, 2);
+    border-radius: 10px;
+}
+
+.dino {
+    text-align: center;
+}
